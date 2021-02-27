@@ -1,2 +1,2 @@
 # DataVisualization
-Practicing data visualization
+Data Visualization workshop - colab notebook
